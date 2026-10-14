@@ -1,0 +1,7 @@
+{
+  "agents": [
+    {"name": "agent-a", "port": 9333, "color": "#10b981", "profile_dir": "~/AgentChrome-agent-a", "download_dir": "~/Downloads/agent-a"},
+    {"name": "agent-b", "port": 9334, "color": "#3b82f6", "profile_dir": "~/AgentChrome-agent-b", "download_dir": "~/Downloads/agent-b"},
+    {"name": "agent-c", "port": 9335, "color": "#8b5cf6", "profile_dir": "~/AgentChrome-agent-c", "download_dir": "~/Downloads/agent-c"}
+  ]
+}
