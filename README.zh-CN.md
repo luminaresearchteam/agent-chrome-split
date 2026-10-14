@@ -4,7 +4,7 @@
 
 [English](README.md) · [给 AI Agent 的安装说明](AGENTS.md)
 
-![cover](assets/cover.png)
+![cover](assets/cover.zh-CN.png)
 
 让 AI Agent 接管电脑，最头疼的是它和你抢同一块屏幕：你一动鼠标它就点错，它一刷新你的页面就没了。
 

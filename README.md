@@ -4,7 +4,7 @@
 
 [中文说明](README.zh-CN.md) · [Instructions for AI agents](AGENTS.md)
 
-![cover](assets/cover.png)
+![cover](assets/cover.en.png)
 
 ## The problem
 
