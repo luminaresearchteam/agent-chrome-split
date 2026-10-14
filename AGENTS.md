@@ -37,6 +37,7 @@ Also make sure nothing else listens there (`lsof -iTCP:$p -sTCP:LISTEN` on macOS
 ## 4. Launch
 
 ```bash
+chmod +x scripts/*.sh   # or run with: bash scripts/...
 NAME=agent-a PORT=9333 COLOR="#10b981" \
 PROFILE_DIR="$HOME/AgentChrome-agent-a" DOWNLOAD_DIR="$HOME/Downloads/agent-a" \
 scripts/launch-agent-chrome.sh

@@ -25,6 +25,7 @@ You keep working as usual. Each agent works in **its own, separate Chrome instan
    Or use the script, which also sets downloads and a label tab:
 
    ```bash
+   chmod +x scripts/*.sh   # or run with: bash scripts/...
    NAME=agent-a PORT=9333 COLOR="#10b981" scripts/launch-agent-chrome.sh
    scripts/make-launcher.sh agent-a 9333 "#10b981"   # macOS: double-clickable Desktop launcher
    ```

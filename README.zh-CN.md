@@ -20,6 +20,8 @@
 open -na "Google Chrome" --args --user-data-dir=$HOME/AgentChrome --remote-debugging-port=9333
 ```
 
+（首次使用脚本前先执行 `chmod +x scripts/*.sh`，或用 `bash scripts/...` 运行。）
+
 把这一行存成桌面上的 .command 文件，以后双击就能启动（`scripts/make-launcher.sh` 可自动生成）。也可以用 `scripts/launch-agent-chrome.sh`，顺带设好下载目录和彩色标签页。
 
 ## 2️⃣ 手动登录一次
