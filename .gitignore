@@ -1,0 +1,14 @@
+# Browser profiles and anything that may hold sessions
+AgentChrome*/
+profiles/
+*-profile/
+Preferences
+Local State
+Cookies
+*.cookies
+*.sqlite
+# Downloads
+downloads/
+Downloads/
+# OS
+.DS_Store
